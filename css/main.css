@@ -7,19 +7,19 @@
   --selection-color: #eee;
   --blockquote-color: #666;
   --link-color: #555;
-  --link-hover-color: #fc3;
+  --link-hover-color: #7e0c6e;
   --brand-color: #fff;
   --brand-hover-color: #fff;
   --table-row-odd-bg-color: #f9f9f9;
   --table-row-hover-bg-color: #f5f5f5;
   --menu-item-bg-color: #f5f5f5;
   --theme-color: #222;
-  --btn-default-bg: #fc3;
+  --btn-default-bg: #7e0c6e;
   --btn-default-color: #fff;
-  --btn-default-border-color: #fc3;
+  --btn-default-border-color: #7e0c6e;
   --btn-default-hover-bg: #fff;
-  --btn-default-hover-color: #fc3;
-  --btn-default-hover-border-color: #fc3;
+  --btn-default-hover-color: #7e0c6e;
+  --btn-default-hover-border-color: #7e0c6e;
   --highlight-background: #f3f3f3;
   --highlight-foreground: #444;
   --highlight-gutter-background: #e1e1e1;
@@ -1192,7 +1192,7 @@ pre code {
   left: 0;
 }
 .sidebar {
-  background: #fc3;
+  background: #7e0c6e;
   bottom: 0;
   box-shadow: inset 0 2px 6px #000;
   max-height: 100vh;
@@ -1223,7 +1223,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #fff;
+  background: #e717df;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -1267,7 +1267,7 @@ pre code {
   height: 16px;
   padding: 5px;
   width: 16px;
-  background: #fc3;
+  background: #7e0c6e;
   cursor: pointer;
   opacity: 0.8;
   position: fixed;
@@ -1652,7 +1652,7 @@ pre code {
   height: 26px;
   transition: 0.2s ease-in-out;
   transition-property: bottom;
-  background: #fc3;
+  background: #7e0c6e;
   cursor: pointer;
   opacity: 0.8;
   position: fixed;
@@ -1807,7 +1807,7 @@ pre code {
   border-bottom-color: #666;
 }
 .posts-collapse .post-content .post-header:hover::before {
-  background: #fc3;
+  background: #7e0c6e;
 }
 .posts-collapse .post-content .post-meta-container {
   display: inline;
@@ -2197,11 +2197,11 @@ pre code {
   padding-left: 10px;
 }
 .event-list hr {
-  background: #fc3;
+  background: #7e0c6e;
   margin: 20px 0 45px;
 }
 .event-list hr::after {
-  background: #fc3;
+  background: #7e0c6e;
   color: #fff;
   content: 'NOW';
   display: inline-block;
@@ -2209,7 +2209,7 @@ pre code {
   padding: 0 5px;
 }
 .event-list .event {
-  --event-background: #fc3;
+  --event-background: #7e0c6e;
   --event-foreground: #bbb;
   --event-title: #fff;
   background: var(--event-background);
@@ -2273,7 +2273,7 @@ pre code {
 .event-list .event-past {
   --event-background: #f5f5f5;
   --event-foreground: #999;
-  --event-title: #fc3;
+  --event-title: #7e0c6e;
 }
 @keyframes dot-flash {
   from {
@@ -2402,7 +2402,7 @@ ul.breadcrumb li:last-child {
   cursor: pointer;
 }
 .search-popup .popup-btn-close:hover .fa {
-  color: #fc3;
+  color: #7e0c6e;
 }
 .search-popup .search-header {
   background: #eee;
